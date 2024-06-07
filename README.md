@@ -3,8 +3,6 @@ This repository contains the documentations and the codes on the customer churn 
 ##Project overview
 SyriaTel prides itself in provision of a wide range of services, including mobile, landline, and internet connectivity, to its customers. However, the company faces the menace of customer churn which is a problem that is witnessed across several other telecommunication companies.
 
-
-
 ## Business and data understanding.
 The dataset used in this project is provided by SyriaTel. Special thanks to the open-source community for their valuable contributions to the libraries and tools used in this project. 
 The stakeholders include marketing managers, customer  teams, and business executives. The dataset used for analysis is sourced from the kaggle and contains information on various customer attributes, such as demographic data, service usage, and customer interactions.
