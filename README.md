@@ -1,6 +1,8 @@
 ## Customer Churn Analysis
-This repository contains the documentations and the codes on the customer churn analysis project that was done on SyriaTel company. The aim of the project. The project is aimed at detecting the customer patterns and come up with measures to mitigate the customer churn through drawing of insights and making recommendations to the stakeholders.
-##Project overview
+This repository contains the documentations and the codes on the customer churn analysis project that was done on SyriaTel company.
+## The aim of the project. 
+The project is aimed at detecting the customer patterns and come up with measures to mitigate the customer churn through drawing of insights and making recommendations to the stakeholders.
+## Project overview
 SyriaTel prides itself in provision of a wide range of services, including mobile, landline, and internet connectivity, to its customers. However, the company faces the menace of customer churn which is a problem that is witnessed across several other telecommunication companies.
 
 ## Business and data understanding.
