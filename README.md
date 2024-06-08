@@ -17,7 +17,17 @@ we evaluated the models using metrics such as accuracy and AUC . We used the per
 ## Hyperparametr tuning.
  We tuned the best performing model's hyperparameters to increase its accuracy and also generalizability.
 ## Insights and recommendations 
-Here we drew insights from the exploratory data analysis and provided data-driven recommendations to the stakeholders to help mitigate the challenge of churning.
-
+* Improve Customer Service Quality: Focus on training customer service representatives to handle issues more effectively and efficiently. Aim to resolve customer issues on the first call to reduce the need for multiple interactions.
+* Proactive Outreach: Implement a proactive customer service approach where representatives reach out to customers periodically to ensure satisfaction and address potential issues before they result in churn.
+* Customer Feedback: Collect feedback after every customer service interaction and use this data to continuously improve service quality. Implement a follow-up mechanism to ensure the customer’s issue was resolved satisfactorily.
+* Evaluate International Plan Pricing: Review the pricing structure of international plans to ensure they are competitive and offer good value. Consider offering discounted rates or bundling international minutes with other services.
+* Targeted Promotions: Create special offers or promotions for customers with international plans to increase their satisfaction and loyalty.
+* Monitor Usage Patterns: Analyze the usage patterns of international plan subscribers to identify any dissatisfaction points and address them promptly.
+* Localized Promotions: Develop targeted marketing campaigns and promotions specifically for customers in area code 415 to improve retention.
+* Community Engagement: Engage with local communities through events, sponsorships, and partnerships to build a stronger brand presence and customer loyalty.
+* Competitive Analysis: Conduct a competitive analysis in the area to understand why customers might be churning and address those factors, such as better pricing, offers, or service quality from competitors.
+* Incentivize Voicemail Plans: Offer incentives for customers to add a voicemail plan, such as discounts or bundled packages that include voicemail at a reduced rate.
+* Highlight Benefits: Communicate the benefits of having a voicemail plan, such as increased convenience and better call management.
+* Free Trial: Provide a free trial period for the voicemail plan to encourage customers to try the service and experience its value.
 ##  Conclusion
 The analysis provided valuable insights into the factors contributing to customer churn. By examining customer behavior and service attributes, several key factors have been identified,this was achieved by fitting models which provided a clear predictive power on customers churn as well as identifying important features.Based on these insights,I have  recommended strategies to reduce churn and enhance customer satisfaction
