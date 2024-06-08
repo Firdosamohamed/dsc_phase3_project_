@@ -13,9 +13,11 @@ here we perform preparation of the data and cleaned it then went ahead to do an 
 ## Modeling.
  we built 4 predictive models using algorithms such as logistic regression, decision trees,kNN classifier and random forest. We started with a baseline logistic regression model, which is a widely-used algorithm for binary classification tasks. We further explored more advanced algorithms such as decision tree classifiers and random forests. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics.
 ## Evaluation. 
-we evaluated the models using metrics such as accuracy, precision etc. We used the performance of each model to determine the best model that we used as our final model. In our project we used Random forest classifier.
-Hyperparametr tuning. We tuned the best performing model's hyperparameters to increase its accuracy and also generalizability.
-Insights and recommendations - here we drew insights from the exploratory data analysis and provided data-driven recommendations to the stakeholders to help mitigate the challenge of churning.
-conclusion - In conclusion, the analysis of the customer churn in SyriaTel has provided clear knowledge on the factors that leads to churning of the customers as well as valuable insights into the customer behaviors. The models have provided a clear predictive power on customers churn as well as identifying important features that greatly influence customer retention. We found that customer service calls, total evening and day charges, international plan subscription and also voice mail plan are key factors influencing customer churn.
+we evaluated the models using metrics such as accuracy and AUC . We used the performance of each model to determine the best model that we used as our final model. In our project we used Random forest classifier.
+## Hyperparametr tuning.
+ We tuned the best performing model's hyperparameters to increase its accuracy and also generalizability.
+## Insights and recommendations 
+Here we drew insights from the exploratory data analysis and provided data-driven recommendations to the stakeholders to help mitigate the challenge of churning.
+
 ##  Conclusion
 The analysis provided valuable insights into the factors contributing to customer churn. By examining customer behavior and service attributes, several key factors have been identified,this was achieved by fitting models which provided a clear predictive power on customers churn as well as identifying important features.Based on these insights,I have  recommended strategies to reduce churn and enhance customer satisfaction
