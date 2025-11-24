@@ -9,7 +9,7 @@ SyriaTel prides itself in provision of a wide range of services, including mobil
 The dataset used in this project is provided by SyriaTel. Special thanks to the open-source community for their valuable contributions to the libraries and tools used in this project. 
 The stakeholders include marketing managers, customer  teams, and business executives. The dataset used for analysis is sourced from the kaggle and contains information on various customer attributes, such as demographic data, service usage, and customer interactions.
 ## Data preprocessing and cleaning.
-here we perform preparation of the data and cleaned it then went ahead to do an exploratory data analysis. We then identified patterns and trends from our analysis
+Here we perform preparation of the data and cleaned it then went ahead to do an exploratory data analysis. We then identified patterns and trends from our analysis
 ## Modeling.
  we built 4 predictive models using algorithms such as logistic regression, decision trees,kNN classifier and random forest. We started with a baseline logistic regression model, which is a widely-used algorithm for binary classification tasks. We further explored more advanced algorithms such as decision tree classifiers and random forests. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics.
 ## Evaluation. 
