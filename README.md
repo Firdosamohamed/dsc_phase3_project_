@@ -11,9 +11,9 @@ The stakeholders include marketing managers, customer  teams, and business execu
 ## Data preprocessing and cleaning.
 Here we perform preparation of the data and cleaned it then went ahead to do an exploratory data analysis. We then identified patterns and trends from our analysis
 ## Modeling.
- we built 4 predictive models using algorithms such as logistic regression, decision trees,kNN classifier and random forest. We started with a baseline logistic regression model, which is a widely-used algorithm for binary classification tasks. We further explored more advanced algorithms such as decision tree classifiers and random forests. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics.
+ We built 4 predictive models using algorithms such as logistic regression, decision trees,kNN classifier and random forest. We started with a baseline logistic regression model, which is a widely-used algorithm for binary classification tasks. We further explored more advanced algorithms such as decision tree classifiers and random forests. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics.
 ## Evaluation. 
-we evaluated the models using metrics such as accuracy and AUC . We used the performance of each model to determine the best model that we used as our final model. In our project we used Random forest classifier.
+We evaluated the models using metrics such as accuracy and AUC . We used the performance of each model to determine the best model that we used as our final model. In our project we used Random forest classifier.
 ## Hyperparameter tuning.
  We tuned the best performing model's hyperparameters to increase its accuracy and also generalizability.
 ## Insights and recommendations 
