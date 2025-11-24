@@ -14,7 +14,7 @@ here we perform preparation of the data and cleaned it then went ahead to do an 
  we built 4 predictive models using algorithms such as logistic regression, decision trees,kNN classifier and random forest. We started with a baseline logistic regression model, which is a widely-used algorithm for binary classification tasks. We further explored more advanced algorithms such as decision tree classifiers and random forests. Each model was trained on a subset of the dataset and evaluated using appropriate evaluation metrics.
 ## Evaluation. 
 we evaluated the models using metrics such as accuracy and AUC . We used the performance of each model to determine the best model that we used as our final model. In our project we used Random forest classifier.
-## Hyperparametr tuning.
+## Hyperparameter tuning.
  We tuned the best performing model's hyperparameters to increase its accuracy and also generalizability.
 ## Insights and recommendations 
 * Improve Customer Service Quality: Focus on training customer service representatives to handle issues more effectively and efficiently. Aim to resolve customer issues on the first call to reduce the need for multiple interactions.
